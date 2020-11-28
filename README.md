@@ -19,6 +19,7 @@ If you use this code for your research, please cite our paper:
   title={Guided Deep Decoder: Unsupervised Image Pair Fusion},
   author={Tatsumi Uezato, Danfeng Hong, Naoto Yokoya, Wei He},
   booktitle={European Conference on Computer Vison (ECCV)},
+  pages={87--102},
   year={2020}
 }
 ```
